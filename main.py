@@ -1,2 +1,18 @@
 print("Привет, это мой локальный код!")
-print("Привет, это код с гитхаба!")
+
+
+
+
+
+
+# git add .
+# git commit -m "My local"
+
+# git push
+
+# git pull
+
+# git add .
+# git commit -m "Fixed conflict"
+# git push
+
